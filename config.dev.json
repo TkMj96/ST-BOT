@@ -27,7 +27,7 @@
     "notes": "Bio update system. When enabled, bot will update user bio on startup. If updateOnce is true, bio will only be updated once and not on every restart. Leave bioText empty to disable."
   },
   "antiInbox": true,
-  "nickNameBot": "ST | BOT",
+  "nickNameBot": "ST | Tokelo",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
@@ -40,7 +40,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": [61576770011127],[61584608305717]
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
@@ -138,7 +138,7 @@
     },
     "sendToAdmin": {
       "enable": false,
-      "adminId": ""
+      "adminId": "61576770011127"
     },
     "message": "🤖 ST-BOT is online and ready!",
     "notes": "Bot startup notification settings. @msgr thread IDs are sent after E2EE is fully ready."
